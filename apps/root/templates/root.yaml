@@ -10,7 +10,7 @@ spec:
     namespace: default
   project: default
   source:
-    path: apps/
+    path: apps/root
     repoURL: https://github.com/Michael-D-Johnson/kubernetes.git
     targetRevision: HEAD
   syncPolicy:
